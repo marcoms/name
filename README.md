@@ -1,0 +1,1 @@
+![Marco Scannadinari](name.svg)
